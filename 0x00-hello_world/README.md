@@ -1,1 +1,1 @@
-UNIX
+intel
