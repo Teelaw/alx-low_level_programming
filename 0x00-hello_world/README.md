@@ -1,1 +1,1 @@
-names
+puts 4
