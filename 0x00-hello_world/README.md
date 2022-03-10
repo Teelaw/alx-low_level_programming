@@ -1,1 +1,1 @@
-puts 4
+printf
