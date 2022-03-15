@@ -1,18 +1,22 @@
 #include "main.h"
+
 /**
- * main - entry point
- * Description: program starts and end here
- * Return: 0 on success
+ * main - prints "Main"
+ *
+ * Description: _putchar prototype
+ * Return: - if the programming ran to completion
  */
+
 int main(void)
 {
-	char text[9] = "main";
+	char char_str[9] = "Main";
 	int i;
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i <= 8; i++)
 	{
-		_putchar(text[i]);
+		_putchar(char_str[i]);
 	}
 		_putchar('\n');
+
 		return (0);
 }
