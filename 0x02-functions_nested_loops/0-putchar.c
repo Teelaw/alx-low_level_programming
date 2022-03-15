@@ -7,7 +7,6 @@
  * Return: - if the programming ran to completion
  */
 
-int main(void)
 {
 char char_str[9] = "Main";
 int i;
