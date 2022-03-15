@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * main - prints "Main"
+ * main - prints "_putchar"
  *
  * Description: _putchar prototype
  * Return: - if the programming ran to completion
  */
 
-int main()
+int main(void)
 {
-char char_str[9] = "Main";
+char char_str[9] = "_putchar";
 int i;
 
 for (i = 0; i <= 8; i++)
