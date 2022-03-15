@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * main - prints "_putchar"
+ * print - "_putchar"
  *
  * Description: _putchar prototype
  * Return: - if the programming ran to completion
  */
 
-int main(void)
+void print(void)
 {
 char char_str[9] = "_putchar";
 int i;
