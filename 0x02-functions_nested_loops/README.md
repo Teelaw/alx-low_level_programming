@@ -1,1 +1,1 @@
-BALANCE
+natural
