@@ -1,1 +1,1 @@
-last digit
+24-hours
